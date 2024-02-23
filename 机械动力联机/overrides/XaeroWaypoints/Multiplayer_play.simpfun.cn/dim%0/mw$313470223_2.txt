@@ -1,0 +1,9 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint_old:D:128:-52:1596:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:86:21:1419:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-103:61:1464:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:村庄:村:-138:63:1368:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:末地传送门:末地:146:35:1320:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:家:家:187:68:1534:10:false:0:gui.xaero_default:false:0:0:false
